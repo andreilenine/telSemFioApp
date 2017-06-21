@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProcVoz</string>
+    <string name="welcome">Bem-vindo ao tanana</string>
+    <string name="nick_pick">Escolha seu nick</string>
+    <string name="search">Jogar!</string>
+    <string name="nick">Nick</string>
+    <string name="searching">Procurando partida</string>
+    <string name="found">Partida encontrada!</string>
+    <string name="error">Falha na conexão</string>
+    <string name="settings">Config</string>
+    <string name="empty_nick">Insira um nick!</string>
+    <string name="big_nick">Nick com até 8 caracteres!</string>
+    <string name="exit">Sair</string>
+    <string name="record">Falar</string>
+    <string name="listen">Ouvir</string>
+    <string name="leader">Líder da rodada</string>
+</resources>
